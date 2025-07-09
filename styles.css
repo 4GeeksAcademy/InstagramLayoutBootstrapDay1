@@ -1,6 +1,14 @@
-body{
-  background-color: black;
-}
 .m-1 {
   margin-left: ($spacer * .25) !important;
+}
+
+#pills-profile-tab,
+#pills-home-tab{
+  background-color: transparent;
+  border: none;
+  align-self: center;
+}
+
+.m-3{
+  margin: ($spacer * .75) !important;
 }
